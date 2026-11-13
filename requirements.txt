@@ -1,0 +1,12 @@
+# Requirements needed for this project. Install them using pip install -r requirements.txt
+
+streamlit
+langchain_chroma
+chromadb
+sentence-transformers
+pypdf
+python-dotenv
+groq
+langchain-core
+langchain-community
+langchain-text-splitters
